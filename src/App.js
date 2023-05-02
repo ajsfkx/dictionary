@@ -1,4 +1,4 @@
-import logo from "./aslogo.jpg";
+import logo from "./ajlogo.jpg";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
@@ -12,7 +12,7 @@ function App() {
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
-        <footer className="App-footer">Coded by Anamika Saxena</footer>
+        <footer className="App-footer">Coded by Amanjyot Singh</footer>
       </div>
     </div>
   );
