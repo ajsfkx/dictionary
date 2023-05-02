@@ -12,7 +12,16 @@ function App() {
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
-        <footer className="App-footer">Coded by Amanjyot Singh</footer>
+        <footer className="App-footer">
+          Coded by
+          <a
+            href="https://www.linkedin.com/in/amanjyot-singh-74219810a/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Amanjyot Singh
+          </a>
+        </footer>
       </div>
     </div>
   );
